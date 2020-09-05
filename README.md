@@ -8,6 +8,6 @@ In the R Studio console, run the code below:
 ```r
 library(shiny)
 
-runGitHub("wangcassidy/normal-navigator", "rstudio")
+runGitHub("normal-navigator", "wangcassidy")
 ```
 
